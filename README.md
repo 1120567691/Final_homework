@@ -1,7 +1,7 @@
 1.项目名称以及项目Github仓库网址
 组织名称：Homework-of-Group2
 项目名称：Final_homework
-仓库网址：https://github.com/Homework-of-Group2/Final_homework
+仓库网址：https://github.com/1120567691/Final_homework
 
 2.App的功能
 本App是一个简易的新闻软件，通过登录账号可以使用。进入App后，有四个界面，点击不同的分类可以浏览不同的新闻。
